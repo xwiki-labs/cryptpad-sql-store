@@ -1,0 +1,24 @@
+{
+  "name": "cryptpad-sql-store",
+  "version": "1.0.0",
+  "description": "storage api for cryptpad implemented using knex.js",
+  "main": "sql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwiki-labs/cryptpad-sql-store.git"
+  },
+  "keywords": [
+    "knex",
+    "sql",
+    "cryptpad"
+  ],
+  "author": "ansuz",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/xwiki-labs/cryptpad-sql-store/issues"
+  },
+  "homepage": "https://github.com/xwiki-labs/cryptpad-sql-store#readme"
+}
